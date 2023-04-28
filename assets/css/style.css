@@ -1,0 +1,10 @@
+.tarjeta {
+    margin: 1%;
+    display: inline-block;
+
+
+}
+body {
+    background-color: rgb(232, 197, 157);
+    align-items: center;
+}
